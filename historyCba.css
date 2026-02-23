@@ -1,10 +1,25 @@
 .Politics {
 	text-align: center;
 }
+.Politics {
+	text-align: center;
+}
 body {
     background-image: url("images/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+    width: 300px;
+  height: 180px;
+  background: linear-gradient(
+    to right,
+    #008751 0%,   
+    #008751 33.33%,
+    #ffffff 33.33%,
+    #ffffff 66.66%,
+    #008751 66.66%,
+    #008751 100%
+  );
+  border: 1px solid #000; 
 }
